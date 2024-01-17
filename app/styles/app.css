@@ -22,7 +22,8 @@ div,
 span,
 a,
 button {
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Open Sans", "Helvetica Neue", "Segoe UI", Helvetica,
+    Arial, sans-serif;
   line-height: 1.5;
 }
 
@@ -30,11 +31,11 @@ body {
   background: #f3f3f3;
 }
 .tomster {
-    background: url(../assets/images/teaching-tomster.png);
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    top: 0;
-    right: 0;
-    /* ...snip... */
-  }
+  background: url(../assets/images/teaching-tomster.png);
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  right: 0;
+  /* ...snip... */
+}
